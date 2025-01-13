@@ -10,15 +10,15 @@
 •	Extensive experience working with RDBMS such as SQL Server, MySQL, and NoSQL databases such as MongoDB.
 
 ## SKILLS
-** Methodologies:** SDLC, Agile, Waterfall 
-### Language: Python, R, SQL, SAS 
-### ML Algorithm: Linear Regression, Logistic Regression, Decision Trees, Supervised Learning, Unsupervised Learning, Classification, SVM, Random Forests, Naive Bayes, KNN, K Means 
-### Packages: NumPy, Pandas, Matplotlib, SciPy, Scikit-learn, TensorFlow 
-Visualization Tools: Tableau, Power BI 
-Database: SQL Server, MySQL, PostgreSQL, Oracle, Mongo DB
-Cloud and Big Data: AWS (S3, Lambda, Glue), Azure (Databricks, Data factory, Data Lake), Apache (Kafka, NiFi, Airflow)
-Other Tools: Git, MS Excel, AWS 
-Operating System: Windows, Linux 
+**Methodologies:** SDLC, Agile, Waterfall 
+**Language:** Python, R, SQL, SAS 
+**ML Algorithm:** Linear Regression, Logistic Regression, Decision Trees, Supervised Learning, Unsupervised Learning, Classification, SVM, Random Forests, Naive Bayes, KNN, K Means 
+**Packages:** NumPy, Pandas, Matplotlib, SciPy, Scikit-learn, TensorFlow 
+**Visualization Tools:** Tableau, Power BI 
+**Database:** SQL Server, MySQL, PostgreSQL, Oracle, Mongo DB
+**Cloud and Big Data:** AWS (S3, Lambda, Glue), Azure (Databricks, Data factory, Data Lake), Apache (Kafka, NiFi, Airflow)
+**Other Tools:** Git, MS Excel, AWS 
+**Operating System:** Windows, Linux 
 
 ## EXPERIENCE
 ### Data Engineer                                                                                                                                               
@@ -42,5 +42,5 @@ Operating System: Windows, Linux
 •	Worked with data scientists and analysts to deliver well-formatted, well-organized and easily retrievable data for insights.
 
 ## EDUCATION
-Master’s in Business Analytics, University of Michigan, Dearborn, USA, August 2022 – April 2024
-Bachelors in Computer Science Engineering, Bennett University, Delhi, India, August 2016 – June 2020 
+- Master’s in Business Analytics | University of Michigan, Dearborn, USA, Aug 2022 – Apr 2024
+- Bachelors in Computer Science Engineering | Bennett University, Delhi, India, Aug 2016 – Jun 2020 
