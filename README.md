@@ -10,7 +10,7 @@
 •	Extensive experience working with RDBMS such as SQL Server, MySQL, and NoSQL databases such as MongoDB.
 
 ## SKILLS
-### Methodologies: SDLC, Agile, Waterfall 
+** Methodologies:** SDLC, Agile, Waterfall 
 ### Language: Python, R, SQL, SAS 
 ### ML Algorithm: Linear Regression, Logistic Regression, Decision Trees, Supervised Learning, Unsupervised Learning, Classification, SVM, Random Forests, Naive Bayes, KNN, K Means 
 ### Packages: NumPy, Pandas, Matplotlib, SciPy, Scikit-learn, TensorFlow 
@@ -42,5 +42,5 @@ Operating System: Windows, Linux
 •	Worked with data scientists and analysts to deliver well-formatted, well-organized and easily retrievable data for insights.
 
 ## EDUCATION
-Master’s in Business Analytics, University of Michigan, Dearborn, USA                                                    August 2022 – April 2024
-Bachelors in Computer Science Engineering, Bennett University, Delhi, India                                              August 2016 – June 2020 
+Master’s in Business Analytics, University of Michigan, Dearborn, USA, August 2022 – April 2024
+Bachelors in Computer Science Engineering, Bennett University, Delhi, India, August 2016 – June 2020 
