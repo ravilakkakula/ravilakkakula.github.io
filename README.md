@@ -41,4 +41,4 @@
 
 ## EDUCATION
 - Master’s in Business Analytics | University of Michigan, Dearborn, USA, Aug 2022 – Apr 2024
-- Bachelors in Computer Science | Bennett University, Delhi, India, Aug 2016 – Jun 2020 
+- Bachelors in Computer Science  | Bennett University,     Delhi, India,  Aug 2016 – Jun 2020 
