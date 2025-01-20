@@ -40,7 +40,7 @@
 - Worked with data scientists and analysts to deliver well-formatted, well-organized and easily retrievable data for insights.
 
 ## PROJECTS
-### Flint Water Line Replacement [Github Link](https://github.com/ravilakkakula/Flint-water-line-replacement)
+### Flint Water Line Replacement [Link](https://github.com/ravilakkakula/Flint-water-line-replacement)
 - Contributed to data collection, cleaning, and processing for the Flint Water Line Replacement project. Performed exploratory data analysis to identify key factors related to lead service lines and suggest water board measures to reduce capital spent.
 - Developed and evaluated machine learning models, including logistic regression, random forest, and neural networks, achieving 94% accuracy with the Bootstrap Forest based on ROC AUC scores.
 
@@ -48,7 +48,7 @@
 - Managed a $1,000,000 virtual stock portfolio on Stock Trak as part of an academic project from Sep 2023 to Dec 2023, outperforming the market return with a return of 16%. Some of the best trades are Amazon, Nvidia, Microsoft, Meta, Mara.
 - Conducted risk assessment and diversification strategies to minimize potential losses and maximize returns, leveraging financial models and market analysis tools
 
-### Speed Check [Github Link](https://github.com/ravilakkakula/Speed-check)
+### Speed Check [Link](https://github.com/ravilakkakula/Speed-check)
 - Engineered a machine learning-based speed detection system using computer vision to identify and record vehicle speeds in real-time. The system accurately processes video footage to detect speeding violations and generate tickets.
 - Utilized Python and OpenCV to analyze video streams from a speed trap camera, integrating speed estimation algorithms to report vehicle speeds. Achieved 88% accuracy with the Edge Impulse model
 
